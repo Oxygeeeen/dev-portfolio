@@ -30,6 +30,8 @@ To run this project locally, follow these steps:
 4. Run the development server: `npm run dev` or `yarn dev`
 5. Open your browser and go to `http://localhost:3000`
 
+```
 Feel free to explore and customize this portfolio for your own use. If you have any questions or suggestions, don't hesitate to reach out!
+```
 
 Happy coding! 💪
