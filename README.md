@@ -10,7 +10,7 @@ Welcome to my personal portfolio! This project is built with [Next.js](https://n
 
 I want to express my gratitude to the following individuals and communities:
 
-- Special thanks to [Adebayo](https://twitter.com/design_sage) for the amazing work on Chakra UI.
+- Special thanks to [Adebayo](https://twitter.com/thesegunadebayo) for the amazing work on Chakra UI.
 - Appreciation to the entire Next.js and Vercel team for providing excellent tools and services.
 - Thank you to all the open-source communities for creating the fantastic tools and frameworks that make projects like this possible.
 
@@ -18,7 +18,7 @@ I want to express my gratitude to the following individuals and communities:
 
 The portfolio is deployed using [Vercel](https://vercel.com/), which is the best option for Next.js projects. It provides a seamless and efficient deployment process.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/your-username/dev-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/Oxygeeeen/dev-portfolio)
 
 ## Getting Started
 
