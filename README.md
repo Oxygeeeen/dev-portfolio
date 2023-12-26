@@ -1,100 +1,35 @@
 # Dev Portfolio
 
-Welcome to my personal portfolio built with Next.js and Chakra UI. This portfolio showcases my skills, projects, and experience as a developer.
+Welcome to my personal portfolio! This project is built with [Next.js](https://nextjs.org/) and [Chakra UI](https://chakra-ui.com/), and it is deployed using [Vercel](https://vercel.com/).
 
-## Table of Contents
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![GitHub repo size](https://img.shields.io/github/repo-size/Oxygeeeen/dev-portfolio)
+![GitHub license](https://img.shields.io/github/license/Oxygeeeen/dev-portfolio)
 
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Project Structure](#project-structure)
-- [Technologies Used](#technologies-used)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+## Acknowledgments
 
-## Features
+I want to express my gratitude to the following individuals and communities:
 
-- Responsive design for a seamless experience on various devices.
-- Showcase of projects with details and live demos.
-- Integration with Chakra UI for a modern and visually appealing user interface.
-- Built with Next.js for efficient server-side rendering and performance.
-
-## Getting Started
-
-Follow these instructions to set up and run the project locally.
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/Oxygeeeen/dev-portfolio.git
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   cd dev-portfolio
-   npm install
-   ```
-
-3. **Run the development server:**
-
-   ```bash
-   npm run dev
-   ```
-
-   The application will be accessible at `http://localhost:3000`.
-
-## Project Structure
-
-The project structure is organized as follows:
-
-```plaintext
-dev-portfolio/
-|-- pages/
-|-- components/
-|-- styles/
-|-- public/
-|-- .gitignore
-|-- next.config.js
-|-- package.json
-|-- README.md
-```
-
-- **`pages/`**: Contains the Next.js pages for different sections of the portfolio.
-- **`components/`**: Reusable React components used throughout the application.
-- **`styles/`**: Stylesheets for custom styling, including Chakra UI theme customization.
-- **`public/`**: Static assets such as images, fonts, etc.
-- **`.gitignore`**: Specifies files and directories to be ignored by version control.
-- **`next.config.js`**: Configuration file for Next.js.
-- **`package.json`**: Project metadata and dependencies.
-- **`README.md`**: Documentation and information about the portfolio project.
-
-## Technologies Used
-
-- [Next.js](https://nextjs.org/): React framework for building server-side rendered React applications.
-- [Chakra UI](https://chakra-ui.com/): A simple, modular, and accessible component library for React.
+- Special thanks to [Adebayo](https://twitter.com/design_sage) for the amazing work on Chakra UI.
+- Appreciation to the entire Next.js and Vercel team for providing excellent tools and services.
+- Thank you to all the open-source communities for creating the fantastic tools and frameworks that make projects like this possible.
 
 ## Deployment
 
-The portfolio can be easily deployed to platforms like Vercel, Netlify, or any other hosting provider that supports Next.js applications.
+The portfolio is deployed using [Vercel](https://vercel.com/), which is the best option for Next.js projects. It provides a seamless and efficient deployment process.
 
-## Contributing
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/your-username/dev-portfolio)
 
-If you'd like to contribute to this project, please follow the [contribution guidelines](CONTRIBUTING.md).
+## Getting Started
 
-## License
+To run this project locally, follow these steps:
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+1. Clone the repository: `git clone https://github.com/your-username/dev-portfolio.git`
+2. Navigate to the project directory: `cd dev-portfolio`
+3. Install dependencies: `npm install` or `yarn install`
+4. Run the development server: `npm run dev` or `yarn dev`
+5. Open your browser and go to `http://localhost:3000`
 
-## Contact
+Feel free to explore and customize this portfolio for your own use. If you have any questions or suggestions, don't hesitate to reach out!
 
-Feel free to reach out to me if you have any questions or suggestions:
-
-
-- Email: lumina.stride@gmail.com
-- LinkedIn: [Abdulbaasit Isah](https://www.linkedin.com/in/isah-abdulbaasit-a96946245/)
-- Upwork: [Abdulbaasit Isah](https://www.upwork.com/freelancers/~018d9794ec8509f75a)
-- Twitter: [@AbdulbaasitIsah](https://twitter.com/AbdulbaasitIsah)
-
-```
+Happy coding! 💪
