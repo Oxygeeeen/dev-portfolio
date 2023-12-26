@@ -4,7 +4,6 @@ Welcome to my personal portfolio! This project is built with [Next.js](https://n
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Oxygeeeen/dev-portfolio)
-![GitHub license](https://img.shields.io/github/license/Oxygeeeen/dev-portfolio)
 
 ## Acknowledgments
 
@@ -30,8 +29,6 @@ To run this project locally, follow these steps:
 4. Run the development server: `npm run dev` or `yarn dev`
 5. Open your browser and go to `http://localhost:3000`
 
-```
 Feel free to explore and customize this portfolio for your own use. If you have any questions or suggestions, don't hesitate to reach out!
-```
 
 Happy coding! 💪
