@@ -18,7 +18,7 @@ export function Footer() {
             <Link href='https://twitter.com/AbdulbaasitIsah' isExternal>
               Abdulbaasit Isah
             </Link>{' '}
-            © 2023
+            © 2022
           </Text>
 
           <Wrap justify='center'>

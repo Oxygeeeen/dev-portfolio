@@ -20,6 +20,6 @@ export const footerData = [
   {
     name: 'Github',
     icon: <BsGithub />,
-    href: 'https://github.com/Oxygeeeen',
+    href: 'https://github.com',
   },
 ];
