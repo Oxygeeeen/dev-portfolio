@@ -64,13 +64,13 @@ export function About() {
           <SocialLink
             label="Github"
             icon={<BsGithub />}
-            href="https://github.com/Oxygeeeen"
+            href="https://github.com"
           />
         </HStack>
       </Stack>
 
       <Text fontSize="lg" lineHeight="tall">
-        Over 6 years working as a software engineer with a focus on UI
+        Over 12 years working as a software engineer with a focus on UI
         development. Specialize in crafting APIs for seamless communication,
         leveraging SSG for optimal web performance, and utilizing CSS
         preprocessors for efficient stylesheet development.
