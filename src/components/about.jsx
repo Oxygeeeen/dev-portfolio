@@ -56,16 +56,6 @@ export function About() {
             icon={<BsTwitter />}
             href="https://twitter.com/AbdulbaasitIsah"
           />
-          <SocialLink
-            label="LinkedIn"
-            icon={<BsLinkedin />}
-            href="https://www.linkedin.com/in/isah-abdulbaasit-a96946245/"
-          />
-          <SocialLink
-            label="Github"
-            icon={<BsGithub />}
-            href="https://github.com"
-          />
         </HStack>
       </Stack>
 

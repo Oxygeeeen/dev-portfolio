@@ -12,14 +12,4 @@ export const footerData = [
     icon: <BsTwitter />,
     href: 'https://twitter.com/AbdulbaasitIsah',
   },
-  {
-    name: 'LinkedIn',
-    icon: <BsLinkedin />,
-    href: 'https://www.linkedin.com/in/isah-abdulbaasit-a96946245/',
-  },
-  {
-    name: 'Github',
-    icon: <BsGithub />,
-    href: 'https://github.com',
-  },
 ];
