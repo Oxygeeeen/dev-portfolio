@@ -60,9 +60,7 @@ export function ProjectCard({ tags, title, description, src, sitelink, repolink,
             >
               Visit Site
             </CustomButton>
-            <CustomButton href={repolink} icon={<IoLogoGithub />} borderRadius='lg'>
-              Github
-            </CustomButton>
+            
           </Stack>
         </Box>
       </Flex>
